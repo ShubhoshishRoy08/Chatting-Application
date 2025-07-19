@@ -29,3 +29,20 @@ It demonstrates:
 
 ```bash
 javac Server.java Client.java
+
+### 2️⃣ **Run the Server**
+
+```bash
+java Server
+
+### 3️⃣ **Run the Client**
+
+```bash
+javac Client
+
+## ✅ How It Works
+
+- The **Server** listens on port **6001**.
+- The **Client** connects to **localhost:6001**.
+- Both sides send and receive messages using **DataInputStream** and **DataOutputStream**.
+- The **GUI** updates dynamically to display incoming and outgoing messages in separate panels.
