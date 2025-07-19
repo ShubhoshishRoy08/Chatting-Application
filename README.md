@@ -29,17 +29,17 @@ It demonstrates:
 
 ```bash
 javac Server.java Client.java
-
+```
 ### 2️⃣ **Run the Server**
 
 ```bash
 java Server
-
+```
 ### 3️⃣ **Run the Client**
 
 ```bash
 javac Client
-
+```
 ## ✅ How It Works
 
 - The **Server** listens on port **6001**.
